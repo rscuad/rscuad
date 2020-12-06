@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wiki](https://img.shields.io/badge/R--SCUAD-wiki-brightgreen?style=plactic&logo=wikipedia)](https://github.com/rscuad/wiki/wiki)
+[![instagram](https://img.shields.io/badge/R--SCUAD-instagram-ff69b4?style=plactic&logo=instagram)](https://www.instagram.com/rscuad.uad/)
 <!--
 **rscuad/rscuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
